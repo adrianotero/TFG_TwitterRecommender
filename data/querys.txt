@@ -1,0 +1,12 @@
+10,http://www.ksta.de,418
+11,ksta.de,418
+20,http://www.sport1.de,596
+21,sport1.de,596
+30,www.gulli.com,694
+40,www.tagesspiegel.de,1677
+50,www.computerwoche.de,2522
+60,www.cio.de,2524
+70,www.cfoworld.de,2525
+80,www.tecchannel.de,3336
+90,www.wohnen-und-garten.de,12935
+100,www.motor-talk.de,13554

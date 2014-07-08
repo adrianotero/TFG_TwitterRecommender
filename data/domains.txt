@@ -1,0 +1,10 @@
+418,ksta
+596,sport1
+694,gulli
+1677,tagesspiegel
+2522,computerwoche
+2524,cio
+2525,cfoworld
+3336,tecchannel
+12935,wohnen-und-garden
+13554,motor-talk
